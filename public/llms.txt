@@ -1,0 +1,106 @@
+# ghosthost — Generative Engine Optimization Map
+
+> A premium web hosting and Discord services provider offering hosting packages, Discord bots, and game servers. The brand targets the gaming and Discord community, with a focus on seamless purchasing through Discord itself. The vibe is tech-savvy, gamer-oriented, and modern, aiming to create a high-end, impressive online presence that resonates with gamers and server administrators.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+אחסון פרימיום לבוטים בדיסקורד ואתרי גיימינג שעובד מסביב לשעון. הצטרף לגיימרים שבחרו בביצועים ללא פשרות — התחל עכשיו והבא את השרת שלך לשלב הבא!
+
+### שירותים
+https://example.com/services
+מאירוח בוטים מותאם אישית ועד שרתי משחק יציבים — גלה חבילות הוסטינג שבנויות למהירות ואמינות. בחר את השירות שמתאים לך והתחיל לשלוט בעולם הדיסקורד!
+
+### קהילה
+https://example.com/community
+קהילת גיימרים ומנהלי שרתים שחולקים טיפים, הטבות ובלעדיות על אחסון בוטים. תהיה חלק מהמעגל הפנימי — היכנס עכשיו וקבל גישה להטבות מיוחדות!
+
+### צור קשר
+https://example.com/contact
+צריך עזרה עם אחסון הבוט או שרת המשחק? צוות המומחים שלנו זמין לענות לך במהירות. פנה אלינו עכשיו וקבל תמיכה שמבינה גיימרים באמת!
+
+### Products
+https://example.com/products
+המוצרים שלנו - ghosthost
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ghosthost
+
+### Category
+https://example.com/category/:slug
+מוצרים - ghosthost
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ghosthost
+A premium web hosting and Discord services provider offering hosting packages, Discord bots, and game servers. The brand targets the gaming and Discord community, with a focus on seamless purchasing through Discord itself. The vibe is tech-savvy, gamer-oriented, and modern, aiming to create a high-end, impressive online presence that resonates with gamers and server administrators.
+
+## Services/Products
+- אחסון אתרים
+- בוטים לדיסקורד
+- שרתי משחק
+- רכישה דרך דיסקורד
+
+## Target Audience
+- גיימרים ומנהלי שרתי דיסקורד
+- חובבי טכנולוגיה ומפתחים
+- בוני קהילות מקוונות
+
+## Industry
+Web Hosting & Discord Bot Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
